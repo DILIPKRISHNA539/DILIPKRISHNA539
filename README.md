@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DILIPKRISHNA539
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning Sql,Python
+- 💞️ I’m looking to collaborate on Data Analysts
+- 📫 You can reach me at dilipkrishna539@gmail.com 
